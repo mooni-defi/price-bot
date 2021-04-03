@@ -1,1 +1,3 @@
-# price-bot
+# MOONI-price-bot
+
+https://t.me/MOONIPriceBot
